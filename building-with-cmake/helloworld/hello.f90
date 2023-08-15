@@ -1,6 +1,6 @@
 program example
 
-  !hello
+  !hello - now by pol
 
   use greeting, only: say_hello
 
