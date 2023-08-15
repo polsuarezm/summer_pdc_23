@@ -1,0 +1,4 @@
+/scratch/baconnet/courses/PDC-Summerschool-2023/research-software-engineering/building-with-cmake/helloworld/build/CMakeFiles/hello.dir
+/scratch/baconnet/courses/PDC-Summerschool-2023/research-software-engineering/building-with-cmake/helloworld/build/CMakeFiles/greeting.dir
+/scratch/baconnet/courses/PDC-Summerschool-2023/research-software-engineering/building-with-cmake/helloworld/build/CMakeFiles/edit_cache.dir
+/scratch/baconnet/courses/PDC-Summerschool-2023/research-software-engineering/building-with-cmake/helloworld/build/CMakeFiles/rebuild_cache.dir
