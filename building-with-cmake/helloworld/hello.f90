@@ -1,5 +1,7 @@
 program example
 
+  !hello
+
   use greeting, only: say_hello
 
   implicit none
